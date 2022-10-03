@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="sahil" verbose="1">
+<test name="lambada_test">
+<parameter name="browser" value="chrome"/>
+<parameter name="url" value="https://accounts.lambdatest.com/register"/>
+<classes><class name="test_Case.lambada_TestCase"/>
+</classes>
+</test>
+</suite>

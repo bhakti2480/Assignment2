@@ -1,0 +1,23 @@
+{
+	"Valid_data":
+	{
+		"fnm":"Pysist",
+		"email":"pysist@gmail.com",
+		"password":"pysist@123",
+		"phn":"7744556677"
+	},
+	"InValid_data":
+	{
+		"fnm":"@12Sd",
+		"email":"123@g.com",
+		"password":"@!/'",
+		"phn":"Qwsdgv"
+	},
+	"Blank_data":
+	{
+	"fnm":"",
+		"email":"",
+		"password":"",
+		"phn":" "
+	}
+}
